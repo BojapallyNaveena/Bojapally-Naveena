@@ -104,3 +104,29 @@ AI / Machine Learning
 Generative AI & RAG
      ↓
 Real-World Applications
+Connect With Me
+
+💼 LinkedIn
+https://linkedin.com/in/bojapally-naveena-27b5bb34a
+
+🐙 GitHub
+https://github.com/BojapallyNaveena
+
+🧩 LeetCode
+https://leetcode.com/u/naveena_37/
+
+🌐 Portfolio
+https://my-portfolio-cyan-nu-42.vercel.app/
+
+📄 Resume
+
+📌 
+View My Resume
+
+💡 My Goal
+
+Learn continuously. Build meaningful projects. Solve real-world problems.
+
+
+
+
