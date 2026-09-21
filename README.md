@@ -1,14 +1,11 @@
 # Hi 👋, I'm Naveena Bojapally
 
+### 🟢 Open to Work
+
+**Seeking opportunities in:**  
+💻 Software Development | 🤖 AI/ML | 🌐 Web Development | 🎓 Internships
+
 ### 🎓 CSE (AIML) Student | Software Developer | AI/ML Enthusiast
-
-I'm a Computer Science (AIML) student passionate about software development,
-Artificial Intelligence, and building practical real-world applications.
-
-I enjoy solving problems, learning new technologies, and turning ideas into
-useful projects.
-
----
 
 ## 👩‍💻 About Me
 
